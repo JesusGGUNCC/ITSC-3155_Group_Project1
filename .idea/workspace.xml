@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cd75d7e-c246-4ae8-a99a-e94665e0182d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assignment2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/controllers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/controllers/orders.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/dependencies/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/dependencies/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/dependencies/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/models/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/models/schemas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment5/api/tests/test_orders.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2eZRk8XqPmeEt2n53EXZO5ZRdS7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Jesus/Desktop/ITSC 3155/Group_Project"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cd75d7e-c246-4ae8-a99a-e94665e0182d" name="Changes" comment="" />
+      <created>1712110253288</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712110253288</updated>
+    </task>
+    <servers />
+  </component>
+</project>
