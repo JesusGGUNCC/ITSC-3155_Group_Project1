@@ -6,6 +6,7 @@ from ..dependencies.database import Base
 class Account(Base):
     __tablename__ = "accounts"
 
+    id = Column(Integer, autoincrement=True)
     account_username = Column(String(100), ForeignKey("customers.email"), primary_key=True, index=True)
     account_password = Column(String(100), index=True)
     account_name = Column(String(100), ForeignKey("customers.name"))
