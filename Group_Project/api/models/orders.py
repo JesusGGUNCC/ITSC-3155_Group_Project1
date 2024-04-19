@@ -8,7 +8,8 @@ class Order(Base):
     __tablename__ = "orders"
 
     id = Column(Integer, primary_key=True, index=True, autoincrement=True)
-    customer_name = Column(String(100))
+    status = Column(String(100), nullable=False)
+    total_price = Column(Integer, nullable=False)
     order_date = Column(DATETIME, nullable=False, server_default=str(datetime.now()))
     description = Column(String(300))
 
