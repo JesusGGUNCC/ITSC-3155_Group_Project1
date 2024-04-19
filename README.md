@@ -1,6 +1,5 @@
 Download for everything to work correctly
 
-
 pip install fastapi
 pip install "uvicorn[standard]"
 pip install sqlalchemy
